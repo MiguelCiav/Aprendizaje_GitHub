@@ -1,5 +1,5 @@
-#Una Página arrechisima
-Esta página es un experimento. Cuyo único fin es el de poner a prueba los conocimientos obtenidos en cursos de control y manejo de versiones, haciendo uso de Git y GitHub
+# Aprendizaje_GitHub
+Un repositorio básico de aprendizaje, para aplicar el conocimiento aprendido en cursos de Git y GitHub
 
 El pana Miguel te saluda ;)
 
